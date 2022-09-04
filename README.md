@@ -7,5 +7,5 @@ Por ahora hay que tener en el mismo directorio el archivo .py, una carpeta llama
 </p>
 <img src="Images/captura.png">
 <p>
-Trabajando en una interfaz que permita ingresar por línea de comandos la ubicación de la carpeta de origen y destino. En un futuro también espero incluir una interfaz gráfica con Qt.
+Trabajando en una interfaz que permita ingresar por línea de comandos la ubicación de la carpeta de origen y destino. En un futuro espero incluir una interfaz gráfica con Qt.
 </p>
