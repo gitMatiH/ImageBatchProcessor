@@ -3,7 +3,7 @@
 Programa en python que usa la biblioteca Pil para hacer un mismo cambio a varias imágenes en una carpeta designada.
 </p>
 <p>
-Por ahora hay que tener el archivo .py, una carpeta llamada batch que contenga las imagenes a editar y otra llamada batchprocessed vacía para ejecutar el programa.
+Por ahora hay que tener en el mismo directorio el archivo .py, una carpeta llamada batch que contenga las imagenes a editar y otra llamada batchprocessed vacía para ejecutar el programa.
 </p>
 <img src="Images/captura.png">
 <p>
