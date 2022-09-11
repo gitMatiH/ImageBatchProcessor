@@ -9,3 +9,12 @@ Por ahora hay que tener en el mismo directorio el archivo .py, una carpeta llama
 <p>
 Trabajando en una interfaz que permita ingresar por línea de comandos la ubicación de la carpeta de origen y destino. En un futuro espero incluir una interfaz gráfica con Qt.
 </p>
+
+
+<h2>Varios</h2>
+<p>
+How To Design Large Software Systems <br>
+https://www.youtube.com/watch?v=u3YoNpSnmis <br>
+Data Collection Project Ideas & Demos <br>
+https://www.youtube.com/watch?v=Wx-gL-Dt5rI <br>
+</p>
