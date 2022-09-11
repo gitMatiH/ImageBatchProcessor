@@ -17,4 +17,10 @@ How To Design Large Software Systems <br>
 https://www.youtube.com/watch?v=u3YoNpSnmis <br>
 Data Collection Project Ideas & Demos <br>
 https://www.youtube.com/watch?v=Wx-gL-Dt5rI <br>
+How to Convert any Python File to .EXE <br>
+https://www.youtube.com/watch?v=CvcSpNm7PzU <br>
+¿Cómo PASAR de .PY a .EXE? (Crear EJECUTABLE con Python) <br>
+https://www.youtube.com/watch?v=CvcSpNm7PzU <br>
+Convert Python To Exe Files <br>
+https://www.youtube.com/watch?v=bYLU02QhlUM <br>
 </p>
