@@ -8,6 +8,8 @@ import os
 
 img_number = 1
 
+# pedirle a usuario los píxels por linea de comandos
+# el siguiente paso sería transformar la entrada por línea de comandos en una GUI donde seleccionas gráficamente el píxel
 x1 = 1080
 y1 = 820
 x2 = 3000
