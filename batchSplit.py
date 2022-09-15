@@ -5,6 +5,7 @@ import os
 
 img_number = 1
 # agregar comando h (horizontally) y v (vertically) por el argumento de la funcion, v sería por defecto
+parameter = 'v'
 
 if parameter == 'v'
 	for root, dirs, files in os.walk("batch"):
