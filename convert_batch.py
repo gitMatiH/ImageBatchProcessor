@@ -1,3 +1,7 @@
+# refactor:
+# renombrar a batchCrop
+# hacer método con definicion y con __name__ == "__main__"
+
 from PIL import Image
 #Using os library to walk through folders
 import os
