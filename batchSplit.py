@@ -18,8 +18,10 @@ if parameter == 'v'
 			y1 = 0
 			x2 = im.width()
 			y2 = im.height()
-			cropped = im.crop((x1,y1,x1/2,y2))
-			cropped.save("batchprocessed/"+str(img_number)+".png", "PNG")
+			cropped1 = im.crop((x1,y1,x2/2,y2))
+			cropped1.save("batchprocessed/"+str(img_number)+"_1.png", "PNG")
+			cropped2 = im.crop((x2/2,y1,x2,y2))
+			cropped1.save("batchprocessed/"+str(img_number)+"_2.png", "PNG")
 			img_number +=1
 elif parameter == 'h':
 	for root, dirs, files in os.walk("batch"):
@@ -32,6 +34,8 @@ elif parameter == 'h':
 			y1 = 0
 			x2 = im.width()
 			y2 = im.height()
-			cropped = im.crop((x1,y1,x1/2,y2))
-			cropped.save("batchprocessed/"+str(img_number)+".png", "PNG")
+			cropped1 = im.crop((x1,y1,x2,y2/2))
+			cropped1.save("batchprocessed/"+str(img_number)+"_1.png", "PNG")
+			cropped2 = im.crop((x1,y2/2,x2,y2))
+			cropped1.save("batchprocessed/"+str(img_number)+"_2.png", "PNG")
 			img_number +=1
